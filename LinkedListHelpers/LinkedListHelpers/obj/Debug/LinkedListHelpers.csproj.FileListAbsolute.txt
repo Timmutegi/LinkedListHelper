@@ -1,0 +1,5 @@
+c:\users\mutegi\documents\visual studio 2015\Projects\LinkedListHelpers\LinkedListHelpers\bin\Debug\LinkedListHelpers.dll
+c:\users\mutegi\documents\visual studio 2015\Projects\LinkedListHelpers\LinkedListHelpers\bin\Debug\LinkedListHelpers.pdb
+c:\users\mutegi\documents\visual studio 2015\Projects\LinkedListHelpers\LinkedListHelpers\obj\Debug\LinkedListHelpers.csprojResolveAssemblyReference.cache
+c:\users\mutegi\documents\visual studio 2015\Projects\LinkedListHelpers\LinkedListHelpers\obj\Debug\LinkedListHelpers.dll
+c:\users\mutegi\documents\visual studio 2015\Projects\LinkedListHelpers\LinkedListHelpers\obj\Debug\LinkedListHelpers.pdb
